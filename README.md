@@ -41,4 +41,4 @@ Objetivo: Construir el esqueleto de la ”Estación Digital” de forma escalabl
 
 4. CSS Grid System: Maquetación del ”Mapa de Red” mediante áreas y tracks. Grid implícito vs. explícito aplicado a la sección ”Estaciones Favoritas”.
 
-5. Estrategia Mobile-First: Uso de Media Queries lógicas y unidades relativas (rem, em,vh, vw).
+5. Estrategia Mobile-First: Uso de Media Queries lógicas y unidades relativas (rem, em,vh, vw)
